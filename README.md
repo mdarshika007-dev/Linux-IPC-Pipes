@@ -30,11 +30,13 @@ Testing the C Program for the desired output.
 
 
 ## OUTPUT
+<img width="955" height="910" alt="image" src="https://github.com/user-attachments/assets/0a24f869-b324-4724-b040-b7965827883f" />
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 
 
+<img width="955" height="910" alt="image" src="https://github.com/user-attachments/assets/cc7a3f7f-6a2d-407e-9e26-3af7ca3b5f07" />
 
 
 
